@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите колличество эементов: ");
+﻿Console.WriteLine("Введите значение длины массива: ");
 int N = Convert.ToInt32(Console.ReadLine());
 string[] array = new string[N];
 int count = 0;
